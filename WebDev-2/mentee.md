@@ -1,4 +1,4 @@
 Mentors - Kawaljeet Singh Bharaj, Dravvya Jain, Atharva Deo
 
 ---
-1. Hrishita Patro
+1. Hrishita Patro()
